@@ -1,0 +1,10 @@
+                                    precision    recall  f1-score   support
+
+Credit reporting, repair, or other     0.8457    0.8675    0.8564      1200
+                   Debt collection     0.8426    0.8167    0.8295      1200
+                     Consumer Loan     0.8790    0.8958    0.8873      1200
+                          Mortgage     0.9594    0.9458    0.9526      1200
+
+                          accuracy                         0.8815      4800
+                         macro avg     0.8817    0.8815    0.8815      4800
+                      weighted avg     0.8817    0.8815    0.8815      4800
